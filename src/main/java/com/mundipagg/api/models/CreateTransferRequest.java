@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class CreateTransferRequest 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4724215253610654922L;
+    private static final long serialVersionUID = 4821757381104977377L;
     private int amount;
     private LinkedHashMap<String, String> metadata;
     /** GETTER
